@@ -54,7 +54,7 @@
 ### Summary Page Word Count
 
 <p align="center">
-  <img src="Pdf_Output_Image2.png" 
+  <img src="Pdf_output_Image2.png" 
 </p>
 
 
@@ -63,19 +63,19 @@
 
 
    <p align="center">
-  <img src="WIKI_Input_Image.png" 
+  <img src="Wiki_Input_Image.png" 
 </p>
      
 ### Summary Page
 
 <p align="center">
-  <img src="WIKI_Output_Image.png" 
+  <img src="Wiki_Output_Image.png" 
 </p>
 
 ### Summary Page Word Count
 
 <p align="center">
-  <img src="WIKI_Output_Image2.png" 
+  <img src="Wiki_Output_Image2.png" 
 </p>
   
 ## Requirements :-
