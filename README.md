@@ -35,7 +35,7 @@
 
 
 <p align="center">
-  <img src="Input page.png" 
+  <img src="Input_Page.png" 
 </p>
 
 
