@@ -59,12 +59,14 @@
 
 
 ## Example:- WIKIPEDIA LINK
+
 ### Input Page-
 
 
    <p align="center">
   <img src="Wiki_Input_Image.png" 
 </p>
+
      
 ### Summary Page
 
