@@ -33,9 +33,11 @@
 
 ### Input Text ( Four Ways )
 
+
 <p align="center">
   <img src="Input_page.png" 
 </p>
+
 
 ## Example:- PDF
 ### Input Page-
@@ -44,14 +46,18 @@
    <p align="center">
   <img src="Pdf_Input_Image.png" 
 </p>
+
      
 ### Summary Page
+
 
 <p align="center">
   <img src="Pdf_Output_Image.png" 
 </p>
 
+
 ### Summary Page Word Count
+
 
 <p align="center">
   <img src="Pdf_output_Image2.png" 
