@@ -44,22 +44,44 @@
    <p align="center">
   <img src="Pdf_Input_Image.png" 
 </p>
+     
 ### Summary Page
+
 <p align="center">
   <img src="Pdf_Output_Image.png" 
 </p>
 
 ### Summary Page Word Count
+
 <p align="center">
   <img src="Pdf_Output_Image2.png" 
 </p>
 
 
+## Example:- WIKIPEDIA LINK
+### Input Page-
+
+
+   <p align="center">
+  <img src="WIKI_Input_Image.png" 
+</p>
+     
+### Summary Page
+
+<p align="center">
+  <img src="WIKI_Output_Image.png" 
+</p>
+
+### Summary Page Word Count
+
+<p align="center">
+  <img src="WIKI_Output_Image2.png" 
+</p>
   
 ## Requirements :-
 
 - Python3 
-- Spacy Module (short, medium, or long any type is sufficient)
+- Spacy Module (short, medium, or long, any type is sufficient)
 - NLTK Module
 - PyPdf2
 - Beautiful Soup (bs4)
